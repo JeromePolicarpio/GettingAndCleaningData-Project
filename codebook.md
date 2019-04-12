@@ -49,7 +49,7 @@ The run_analysis.R script performs the data downloading and cleaning process of 
       - All GyroJerk in column’s name replaced by AngularAcceleration        
 
 ## 7 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
-  * tiddata (180 rows, 68 columns) was created by sumarizing allData taking the means of each variable for each activity and each subject, after groupped by subject and activity.
+  * tidydata (180 rows, 68 columns) was created by sumarizing allData taking the means of each variable for each activity and each subject, after groupped by subject and activity.
   * Export tidydata into tidydata.txt file.
   
   
